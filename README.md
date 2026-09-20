@@ -1,8 +1,6 @@
 # Printf Implementation
 
 ![C Language](https://img.shields.io/badge/Language-C-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-[![Documentation Status](https://readthedocs.org/projects/printf/badge/?version=latest)](https://printf.readthedocs.io/en/latest/?badge=latest)
 
 ## Description
 
@@ -19,8 +17,6 @@ This project is a custom implementation of the `printf` function in C, which is 
 - [Testing](#testing)
 - [Contributing](#contributing)
 - [Authors](#authors)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -149,12 +145,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Authors
 - [@Adameelmadani](https://github.com/Adameelmadani)
 - [@henrychris](https://github.com/henrychris)
-
-## License
-
-This project is licensed under the MIT License - [MIT License](LICENSE)
-
-## Acknowledgements
-
-- The C Programming Language by Brian Kernighan and Dennis Ritchie
-- [printf(3) - Linux manual page](https://man7.org/linux/man-pages/man3/printf.3.html)
